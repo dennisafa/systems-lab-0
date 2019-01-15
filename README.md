@@ -1,2 +1,3 @@
 # systems-lab-0
-Dennis Afanasev
+Name: Dennis Afanasev
+Favorite movie: Titanic
